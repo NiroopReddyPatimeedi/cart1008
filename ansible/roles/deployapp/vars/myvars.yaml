@@ -1,4 +1,4 @@
 ---
-sgname: tomcats
+sgname: tomcat
 lbsgname: weblbsg
 keypairname: tomcatkeypair
